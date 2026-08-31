@@ -26,6 +26,4 @@ All execution artifacts can be found in `./coverage`, if you want to remove thes
     <li>test: unit test files</li>
 </ul>
 
-## VAR: 369e84405bdedf6567415ddedcc8b8dadcc20dc1
-
-ALTERAÇÃO
+## VAR: 369e84405bdedf6567415ddedcc8b8dadcc20dc1(abc123)
